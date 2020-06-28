@@ -8,4 +8,4 @@ What it does: goes through multiplayer matches and counts how many times each pe
 
 A map is auto loved when 5 unique players have 3 votes each for a map
 
-Requires mondoDB
+Requires mongoDB
